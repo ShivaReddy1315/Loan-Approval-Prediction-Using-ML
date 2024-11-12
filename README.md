@@ -7,7 +7,7 @@ This project leverages machine learning to predict loan approval outcomes based 
  Features
 
 - Data Preprocessing: Handles missing values, categorical encoding, and scaling to prepare data for modeling.
-- **Model Training**: Implements several machine learning algorithms (e.g., Logistic Regression, Decision Trees, Random Forests) to evaluate and select the best-performing model.
+- **Model Training**: Implements several machine learning algorithms (e.g.,  Decision Trees,Naive Bayes) to evaluate and select the best-performing model.
 - **Evaluation Metrics**: Assesses model performance using metrics such as accuracy, precision, recall, and F1-score.
 - **Deployment**: Ready for integration into loan application systems, enabling real-time predictions.
 
